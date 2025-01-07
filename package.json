@@ -1,0 +1,16 @@
+{
+  "name": "raycasting",
+  "version": "1.0.0",
+  "description": "We do a little bit of raycasting",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
